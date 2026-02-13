@@ -1,0 +1,14 @@
+<svg width="360" height="92" viewBox="0 0 360 92" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <defs>
+    <linearGradient id="wordmark" x1="20" y1="20" x2="320" y2="90" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1F3173"/>
+      <stop offset="0.5" stop-color="#55389F"/>
+      <stop offset="1" stop-color="#A169C9"/>
+    </linearGradient>
+  </defs>
+  <circle cx="42" cy="44" r="28" fill="#E3DFF2"/>
+  <path d="M15 44C20 34 29 28 42 28C55 28 64 34 69 44C64 54 55 60 42 60C29 60 20 54 15 44Z" stroke="#1F3173" stroke-width="2.8"/>
+  <circle cx="42" cy="44" r="9" fill="#5F5CAC"/>
+  <text x="84" y="43" fill="url(#wordmark)" font-size="30" font-weight="600" font-family="Playfair Display, serif">Mind's Eye</text>
+  <text x="84" y="67" fill="#35348A" font-size="13" font-weight="500" font-family="Inter, sans-serif" letter-spacing="0.1em">RESILIENCE &amp; WELLBEING</text>
+</svg>

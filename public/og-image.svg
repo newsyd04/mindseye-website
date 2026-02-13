@@ -1,0 +1,13 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630">
+      <stop stop-color="#E3DFF2"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="980" cy="120" r="180" fill="#A169C9" fill-opacity="0.18"/>
+  <circle cx="210" cy="510" r="220" fill="#5F5CAC" fill-opacity="0.12"/>
+  <text x="120" y="280" fill="#1F3173" font-size="68" font-family="Inter, sans-serif" font-weight="700">Mind's Eye</text>
+  <text x="120" y="355" fill="#35348A" font-size="46" font-family="Inter, sans-serif" font-weight="500">Resilience &amp; Wellbeing</text>
+</svg>
