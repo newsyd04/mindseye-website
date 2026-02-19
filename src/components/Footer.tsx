@@ -34,6 +34,20 @@ export function Footer() {
           <p className="text-xs">{serviceDisclaimer}</p>
         </div>
       </Container>
+      <Container className="mt-8">
+        <p className="text-sm text-indigo/90">
+          Designed and developed by{' '}
+          <a
+            className="font-medium text-ink hover:text-violet"
+            href="https://daranewso.me"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Dara Newsome
+          </a>
+          .
+        </p>
+      </Container>
     </footer>
   )
 }
